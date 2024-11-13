@@ -1,0 +1,31 @@
+.image-detail{
+  padding: 50px;
+height: 475px;
+width: 365px;
+display: block;
+margin: 40px;
+}
+.addToCart{
+    height: 100%;
+    width: 10%;
+    margin:0px 0px 50px 30px; 
+}
+.addToCart:hover{
+    background-color: green;
+}
+.descri{
+    margin:0px 0px 5px 10px; 
+}
+.price{
+font-size:20px;
+margin:0px 0px 10px 30px; 
+}
+
+
+
+
+
+
+
+
+
